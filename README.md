@@ -23,3 +23,15 @@ lecture 10:
 lecture 11:
 
 *privacy: 
+
+
+Subnetting :
+
+* ## Subnetting Practice
+- Block size formula: 256 - subnet mask value
+- Network = start of block
+- First Host = Network + 1
+- Last Host = Broadcast - 1
+- Broadcast = end of block
+- Next Subnet = Broadcast + 1
+- Practiced almost 10 problems on subnetipv4.com
